@@ -1,6 +1,6 @@
 cask "ferah" do
-  version "0.4.0"
-  sha256 "41770568b64d318d5ef27634bb42d21e50be4e2e65e52c1459af3689f0a1c4fd"
+  version "0.4.1"
+  sha256 "8163a8898ec1dd911fa1c87cd53128c6e04e6c2d317110949de09d58c787b378"
 
   url "https://github.com/vhurkus/ferah/releases/download/v#{version}/Ferah-#{version}.dmg"
   name "Ferah"
